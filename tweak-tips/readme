@@ -1,0 +1,3 @@
+This is just a folder with nothing important in it.
+There are some images (and maybe some text) to help you with configuring the bot properly for your screen.
+As, MSS (A Python Library) is used in this project which reads data from the screen. So, the screen size is crutial.
